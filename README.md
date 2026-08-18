@@ -4,10 +4,13 @@ TITLE OF THE PROJECT	:AI-Driven Requirements Prioritization and Change Impact An
 
 
 
- team members
+team members
 2420090122	M.Suchita
+
 2420090105	V.Akshitha(Team lead)
+
 2420030601	B.Niharika
+
 2420030628	P.Akshaya
 
 
